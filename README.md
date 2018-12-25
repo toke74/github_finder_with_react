@@ -1,4 +1,4 @@
-# GitHun Users Finder App
+# GitHub Users Finder App
 
 This project built with React / Redux to Find Github users and view their profiles. Uses Bootsrap 4
 ![github-finder](https://user-images.githubusercontent.com/34821050/50426668-ffebbc80-0861-11e9-99ed-2ad103821a40.jpg)
